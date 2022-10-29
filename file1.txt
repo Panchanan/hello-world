@@ -3,6 +3,6 @@ This file is modified in branch
 to test conflict issues while merging
 
 
-file modified in github
+file modified in github again
 modified in local
 

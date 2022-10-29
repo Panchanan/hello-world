@@ -2,3 +2,4 @@ new line1
 This file is modified in branch
 to test conflict issues while merging
 
+file modified in github

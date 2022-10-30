@@ -1,1 +1,4 @@
 added some content in new file
+
+
+- tips to write stories

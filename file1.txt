@@ -4,5 +4,10 @@ to test conflict issues while merging
 modified in local
 
 
+<<<<<<< HEAD
 file modified in github
+=======
+file modified in github again and again
+modified in local
+>>>>>>> 53e6c643420a61b79ed1f71af53661abda0b41ba
 
